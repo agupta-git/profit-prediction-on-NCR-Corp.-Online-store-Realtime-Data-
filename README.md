@@ -2,6 +2,7 @@
 
 # Modules Developed
 
+* Recommendation System
 * Profit Prediction
 * Product demand prediction
 * Product price prediction

@@ -14,7 +14,7 @@ The webapp was hosted to make the process simpilar and smooth we can see a few s
 
 ![Image](https://github.com/agupta-git/profit-prediction-on-NCR-Corp.-Online-store-Realtime-Data-/blob/master/gallery2.jpg)
 
-![Image](https://github.com/agupta-git/profit-prediction-on-NCR-Corp.-Online-store-Realtime-Data-/blob/master/gallery 3.jpg)
+![Image](https://github.com/agupta-git/profit-prediction-on-NCR-Corp.-Online-store-Realtime-Data-/blob/master/gallery%3.jpg)
 
 ![Image](https://github.com/agupta-git/profit-prediction-on-NCR-Corp.-Online-store-Realtime-Data-/blob/master/gallery4.jpg)
 
